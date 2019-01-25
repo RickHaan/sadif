@@ -1,2 +1,2 @@
 FROM openjdk:8
-CMD echo "Hello there"
+CMD echo "Hello Docker"
